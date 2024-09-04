@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nabeelmuhammed369 MEAN stack developer experienced in frint end engineering
+- 👋 Hi, I’m @Nabeelmuhammed369 MEAN stack developer experienced in front end engineering
 - 👀 I’m interested in ... Developing high perfomanced cross browser compatiable user interfaces for web applications and server side scripting in nodeJS environment
 - 🌱 I’m currently learning ... Intergrating thirdparty RESTful API from various sources
 - 💞️ I’m looking to collaborate on ...
